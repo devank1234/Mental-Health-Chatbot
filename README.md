@@ -89,7 +89,7 @@ This project demonstrates practical implementation of:
                          │
                          ▼
                   Streamlit UI
-
+'''
 ---
 
 ## 👨‍💻 Author
