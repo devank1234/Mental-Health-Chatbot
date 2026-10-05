@@ -22,6 +22,21 @@ The application combines **Streamlit, LangChain, ChromaDB, Hugging Face embeddin
 
 ---
 
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| Python | Core programming language |
+| Streamlit | Web application interface |
+| LangChain | RAG pipeline and document processing |
+| PyPDF | PDF document loading |
+| RecursiveCharacterTextSplitter | Text chunking |
+| Hugging Face | Text embedding generation |
+| Sentence Transformers | `all-MiniLM-L6-v2` embedding model |
+| ChromaDB | Vector database |
+| Ollama | Local LLM inference |
+| Qwen2.5:1.5B | Local language model |
+
 ## 🏗️ Architecture
 
 ```text
@@ -59,17 +74,4 @@ The application combines **Streamlit, LangChain, ChromaDB, Hugging Face embeddin
                          ▼
                   Streamlit UI
 
-## 🛠️ **Tech Stack**
 
-| Technology | Purpose |
-|------------|---------|
-| Python | Core programming language |
-| Streamlit | Web application interface |
-| LangChain | RAG pipeline and document processing |
-| PyPDF | PDF document loading |
-| RecursiveCharacterTextSplitter | Text chunking |
-| Hugging Face | Text embedding generation |
-| Sentence Transformers | `all-MiniLM-L6-v2` embedding model |
-| ChromaDB | Vector database |
-| Ollama | Local LLM inference |
-| Qwen2.5:1.5B | Local language model |
