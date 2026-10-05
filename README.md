@@ -37,6 +37,22 @@ The application combines **Streamlit, LangChain, ChromaDB, Hugging Face embeddin
 | Ollama | Local LLM inference |
 | Qwen2.5:1.5B | Local language model |
 
+---
+## 🎯 Key Learning Outcomes
+
+This project demonstrates practical implementation of:
+- Retrieval-Augmented Generation (RAG)
+- Document ingestion and preprocessing
+- Text chunking
+- Semantic embeddings
+- Vector databases
+- Similarity search
+- LangChain pipelines
+- Local LLM inference
+- Streamlit application development
+
+---
+ 
 ## 🏗️ Architecture
 
 ```text
@@ -73,5 +89,9 @@ The application combines **Streamlit, LangChain, ChromaDB, Hugging Face embeddin
                          │
                          ▼
                   Streamlit UI
+
+
+
+
 
 
