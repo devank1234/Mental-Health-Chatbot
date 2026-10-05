@@ -6,4 +6,4 @@ sentence-transformers
 langchain_core
 streamlit
 pypdf
-faiss-cpu
+chromadb
