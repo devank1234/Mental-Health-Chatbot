@@ -55,7 +55,7 @@ This project demonstrates practical implementation of:
  
 ## 🏗️ Architecture
 
-```text
+
                  PDF Knowledge Base
                          │
                          ▼
@@ -89,7 +89,7 @@ This project demonstrates practical implementation of:
                          │
                          ▼
                   Streamlit UI
-'''
+
 ---
 
 ## 👨‍💻 Author
