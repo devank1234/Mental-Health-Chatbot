@@ -90,6 +90,14 @@ This project demonstrates practical implementation of:
                          ▼
                   Streamlit UI
 
+---
+
+## 👨‍💻 Author
+
+Devank Verma
+B.Tech + M.Tech (Dual Degree)
+National Institute of Technology, Rourkela
+
 
 
 
